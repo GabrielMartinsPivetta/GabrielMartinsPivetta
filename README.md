@@ -10,7 +10,7 @@
 
 ## 🧬 Sobre Mim
 
-Sou formado em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Federal do Paraná (UFPR)** e atualmente me dedico ao desenvolvimento de software, unindo o raciocínio analítico da engenharia com a lógica da programação para construir soluções eficientes e inovadoras, atualemente atuo como Analista de Negócios, voltado a parte de sistemas.
+Sou formado em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Federal do Paraná (UFPR)** e atualmente me dedico ao desenvolvimento de software, unindo o raciocínio analítico da engenharia com a lógica da programação para construir soluções eficientes e inovadoras, atualmente atuo como Analista de Negócios, voltado a parte de sistemas.
 
 - 🎓 **Graduação:** Engenharia de Bioprocessos e Biotecnologia — UFPR
 - 💻 Explorando o mundo do desenvolvimento de software com foco em **back-end e front-end**
@@ -62,11 +62,14 @@ Sou formado em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidad
 
 ## 🔗 Onde me encontrar
 
-<p>
-  <a href="https://github.com/GabrielMartinsPivetta" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-martins-belarmino/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:gabmartins0817@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-GabrielMartinsPivetta-00FFF2?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=00FFF2&color=0d1117)](https://github.com/GabrielMartinsPivetta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Martins-00FFF2?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=00FFF2&color=0d1117)](https://www.linkedin.com/in/gabriel-martins-belarmino/)
+[![Gmail](https://img.shields.io/badge/Gmail-gabmartins0817-00FFF2?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=00FFF2&color=0d1117)](mailto:gabmartins0817@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-gabmarbel-00FFF2?style=for-the-badge&logo=itchdotio&logoColor=0d1117&labelColor=00FFF2&color=0d1117)](https://gabmarbel.itch.io/)
+
+</div>
 
 ---
 
