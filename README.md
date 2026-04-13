@@ -10,14 +10,14 @@
 
 ## 🧬 Sobre Mim
 
-Sou formado em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Federal do Paraná (UFPR)** e atualmente me dedico ao desenvolvimento de software, unindo o raciocínio analítico da engenharia com a lógica da programação para construir soluções eficientes e inovadoras.
+Sou formado em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Federal do Paraná (UFPR)** e atualmente me dedico ao desenvolvimento de software, unindo o raciocínio analítico da engenharia com a lógica da programação para construir soluções eficientes e inovadoras, atualemente atuo como Analista de Negócios, voltado a parte de sistemas.
 
 - 🎓 **Graduação:** Engenharia de Bioprocessos e Biotecnologia — UFPR
 - 💻 Explorando o mundo do desenvolvimento de software com foco em **back-end e front-end**
 - 🚀 Interesse em como a **tecnologia pode otimizar processos** na biotecnologia e além
 - 🌱 Sempre aprendendo: atualmente aprofundando conhecimentos em **C#, React, Tailwind, Unity e mais**
 - 🎮 Desenvolvendo jogos **indie** com **Unity** — transformando criatividade em experiências interativas
-- ⚡ **Curiosidade:** [Adicione algo pessoal aqui — ex: apaixonado por café / entusiasta de inovação científica]
+- ⚡ **Curiosidade:** Aprendendo a desenvolver jogos como hobby.
 
 ---
 
